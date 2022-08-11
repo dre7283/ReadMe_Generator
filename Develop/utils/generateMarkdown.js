@@ -13,9 +13,8 @@ function renderLicenseBadge(license) {
   else if (license === 'GPL 3.0') {
     return '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'
   }
-  else (license === 'None') {
-    return '';
-  }
+  else (license === 'None') 
+  return '';
 }
 // Create a function that returns the license link
 // If there is no license, return an empty string
