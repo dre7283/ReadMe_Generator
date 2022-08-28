@@ -66,7 +66,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
         console.log(data);
-        fs.writeToFile("./output/README.md", generateMarkdown(data) )
+        writeToFile("./output/README.md", generateMarkdown(data) )
       });
 }
 
