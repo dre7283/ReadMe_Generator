@@ -45,6 +45,19 @@ ${renderLicenseBadge(data.license)}
 
 ${data.description}
 
+## Table of Contents
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+${renderLicenseLink(data.license)}
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
 
 `;
 }
