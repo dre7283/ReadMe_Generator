@@ -19,7 +19,7 @@ const questions = [
         type:"input",
         name:"installation",
         message:"how will you install?",
-        default: "npm i",
+        default: "npm i inquirer@8.2.4",
     },
     {
         type:"input",
