@@ -39,7 +39,7 @@ git clone: https://github.com/dre7283/ReadMe_Generator
 * Open Integrated terminal: install: npm i inquirer@8.2.4
 * Open Integrated terminal from index.js;  type node index.js
 
-url of video tutorial: https://app.castify.com/watch/9b93a08d-1d26-40cb-b48c-5ab684f321fa
+url of video tutorial: https://drive.google.com/file/d/1s3hWPr5qcwai-t8uDPNcrzib-zN1pjWO/view
 
 
 ## Review

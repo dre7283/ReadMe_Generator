@@ -1,4 +1,4 @@
-# Read Me Generator
+# ReadMe Generator
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
@@ -23,7 +23,7 @@ this is a test
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+npm i inquirer@8.2.4
 ```
 
 ## Usage
