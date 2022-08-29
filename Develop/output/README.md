@@ -1,9 +1,9 @@
 # Readme Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ##Description
 
-This can write a quality Readme
+this is used to create a quality readme file
 
 ## Table of Contents
 
@@ -28,15 +28,15 @@ npm i
 
 ## Usage
 
-nothing
+this is a test
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the BSD 3 license.
   
 ## Contributing
 
-nothing
+this is a test
 
 ## Tests
 
